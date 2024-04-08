@@ -56,4 +56,8 @@ class UserSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 
+def say_salom():
+    
+    return 'hi'
+
     
